@@ -26,21 +26,6 @@ This project was completed as part of an assessment with a 24-hour turnaround ti
 
 ***
 
-## Project Structure
-
-The repository is organized to separate experimental code from reusable application logic.
-
-Of course. Here is the complete content ready to be saved as your README.md file.
-
-Instructions:
-
-Click the "Copy" button in the top-right corner of the code block below.
-
-Create a new file named README.md in the root directory of your project.
-
-Paste the copied text into that file and save it.
-
-Markdown
 
 # RLHF Proof-of-Concept: Improving RCA Generation
 
@@ -52,15 +37,15 @@ This repository contains an end-to-end proof-of-concept (POC) demonstrating how 
 
 This project was completed as part of an assessment with a 24-hour turnaround time, emphasizing rapid prototyping and a clear demonstration of the core RLHF loop.
 
-## 📹 Project Demo
+##  Project Demo
 
 For a complete walkthrough of the project, the code, and the results, please view the short video demo:
 
-**[▶️ Watch the 5-Minute Loom Demo Here]** *(<- Link to your recorded demo)*
+**[ Watch the 5-Minute Loom Demo Here]** *(<- Link to your recorded demo)*
 
 ***
 
-## 🎯 Project Scope & Expectations
+##  Project Scope & Expectations
 
 * **Scope**: Implement a simplified feedback loop with RLHF.
 * **Instructions**:
@@ -76,7 +61,7 @@ For a complete walkthrough of the project, the code, and the results, please vie
 
 ***
 
-## 📂 Project Structure
+##  Project Structure
 
 The repository is organized to separate experimental code from reusable application logic.
 
@@ -187,3 +172,4 @@ The primary goal was to see if the PPO-tuned model produced better RCAs. The res
 | Provide a Root Cause Analysis for the recent API latency spike.    | ...http://www.boostfire.net/app/2012/10/national-research-fire-training-poster...                                                                                                                                  | -3.70          | ...The reason Cave››s authors disabled the ACS API caching graph in a major rewrite is because it could fill in extra memory...                                                                      | -5.35         |
 | Provide a Root Cause Analysis for the recent database connection failure. | ...Root Cause Analysis and other systems are not a complete match for the normalized Root Cause Leadership Technologies...                                                                                      | -2.13          | ...That said, there is still a lot to learn about the programming language. SP, a type system known for recursion, proton statistics...                                                                    | -5.03         |
 | Provide a Root Cause Analysis for the recent user login outage.    | ...The Wikimedia Foundation has posted an update on the service and the process, which can be viewed here...                                                                                                        | -5.84          | ...Protect your account after the outage and return the common input messages. When Uninstaller Description: Disable Root Applications...                                                                     | -5.36         |
+
